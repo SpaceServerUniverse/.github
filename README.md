@@ -1,0 +1,7 @@
+# SpaceServerUniverse
+
+非公式Minecraftサーバーのプラグインを開発します。
+
+皆様に安心していただくことと、勉強になればとオープンソースで開発しています。
+
+この組織で作成されたプラグインの著作権はSpaceServerUniverseに帰属します。
